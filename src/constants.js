@@ -172,10 +172,10 @@ export const SkillsInfo = [
     {
       id: 0,
       img: glaLogo,
-      school: "GLA University, Mathura",
-      date: "Sept 2022 - July 2024",
-      grade: "7.81 CGPA",
-      desc: "I have completed my Master's degree (MCA) in Computer Applications from GLA University, Mathura. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
+      school: "Kasemul Ulum Madrasha, Ramganj",
+      date: "Jan 2008 - July 2023",
+      grade: "Mumtaz, Hafiz",
+      desc: "I have completed my Hifz's in HifzKhana from Auwgankhil Madrasha, Ramganj. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Master of Computer Applications - MCA",
     },
     {
@@ -210,13 +210,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Mojahidx AI",
+      title: "Miximy",
       description:
-        "MojahidX is a simple and free platform offering smart online tools like AI image generation, bio links, and custom upi payment pages — all built with a clean and user-friendly experience.",
+        "Miximy is a simple and free tech online blog site offering best modified apps games themes gfx file etc.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/mojahid65",
-      webapp: "https://www.mojahidx.online/",
+      github: "https://github.com/robiul3100",
+      webapp: "https://www.miximy.blogspot.com/",
     },
     {
       id: 1,
