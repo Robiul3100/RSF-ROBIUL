@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://rsf-robiul.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -55,5 +55,5 @@ Watch the full build on YouTube:
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
+This project was created with ❤️ by [RSF ROBIUL](https://rsf-robiul.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
